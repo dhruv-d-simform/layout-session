@@ -6,15 +6,13 @@ author: Dhruv Dhaduk
 This will be divided into two parts
 ===
 
-# Part 1 - Layout thinking
-- How to break down real-world UIs
-- How to identify structural boundaries
-- How to think in scalable layout systems
+# Part 1 - Mental modal (Brief)
+- How to think and break down the layouts.
+- How does web technologies work. 
 
 # Part 2 - Applying it live
-- Building a structured layout from scratch
-- Making the layout decisions deliberately
-- Translating structure into clean implementation
+- Building a layout live
+- We will take the decisions along the way
 
 <!-- end_slide -->
 
@@ -23,7 +21,7 @@ What this session is not about ?
 
 ❌ HTML/CSS basics tutorial  
 ❌ Styling tricks  
-❌ Framework tutorial  
+❌ How to center a div
 
 <!-- end_slide -->
 
@@ -61,8 +59,6 @@ Not all CSS is the same
 Some CSS controls structure.  
 Some CSS controls appearance.
 
-We will be focusing on the one that controls structure.
-
 # CSS that controls structure
 - Positioning
 - Alignment
@@ -79,4 +75,11 @@ We will be focusing on the one that controls structure.
 - Shadows
 - Decoration
 
+We will be focusing on the one that controls structure.
 
+<!-- end_slide -->
+
+Let's go hands on.
+===
+
+# Let's build a real layout live.
